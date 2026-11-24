@@ -1,0 +1,9 @@
+Hola, mosca.
+
+Este es el primer archivo de bugs_in_the_fly, el repositorio del TFG
+"¿Qué errores del conectoma importan?".
+
+Estado: esperando a que la simulación de azúcar a 100 Hz termine en Colab
+para ver cuántos Hz da MN9.
+
+🪰 Si el error importa, la mosca no come.
